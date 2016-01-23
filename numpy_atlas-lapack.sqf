@@ -1,0 +1,4 @@
+blas
+atlas
+lapack
+numpy

@@ -1,0 +1,33 @@
+@enca_full.sqf
+@libass_full.sqf
+@libbluray_full_java.sqf
+celt
+libdc1394
+decklink-sdk
+@faac_full.sqf
+libfdk-aac
+flite | DOCS=no
+@frei0r_full-numpyopenblas.sqf
+gsm
+libiec61883
+libavc1394
+libilbc
+ladspa_sdk
+lame
+libmodplug
+OpenAL
+opencore-amr
+opencv
+opus
+@libquvi_full.sqf
+rtmpdump
+schroedinger
+speex
+twolame
+vid.stab
+x264
+x265
+xvidcore
+zvbi
+@jack-audio-connection-kit_full.sqf
+ffmpeg | ASS=yes BLURAY=yes CELT=yes DC1394=yes DECKLINK=yes FLITE=yes FREI0R=yes GSM=yes IEC61883=yes ILBC=yes LADSPA=yes LAME=yes MODPLUG=yes OPENAL=yes OPENCORE=yes OPENCV=yes OPUS=yes QUVI=yes RTMP=yes SCHROEDINGER=yes SPEEX=yes TWOLAME=yes VIDSTAB=yes X264=yes X265=yes XVID=yes ZVBI=yes FAAC=yes FDK_AAC=yes OPENSSL=yes
