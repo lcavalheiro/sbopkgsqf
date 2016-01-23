@@ -1,0 +1,9 @@
+python3
+libetpan
+valgrind
+geoclue
+gdata
+libwebp
+webkitgtk
+webkitgtk3
+claws-mail
