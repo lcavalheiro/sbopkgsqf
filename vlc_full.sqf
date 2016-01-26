@@ -38,3 +38,4 @@ schroedinger
 libminizip
 @chromaprint_full.sqf
 x265
+vlc
