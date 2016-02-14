@@ -1,0 +1,5 @@
+libgnomecups
+libgnomeprint
+libgnomecanvas
+libgnomeprintui
+leafpad
