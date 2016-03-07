@@ -1,0 +1,12 @@
+@gst0-plugins-bad_full.sqf
+@gst0-plugins-ugly_full.sqf
+@gst-plugins-bad_full.sqf
+@gst-plugins-ugly_full.sqf
+@libpeas_full.sqf
+@totem-pl-parser.sqf
+gst0-python
+gst-python
+gst-libav
+jmtpfs
+mtpfs
+gmtp

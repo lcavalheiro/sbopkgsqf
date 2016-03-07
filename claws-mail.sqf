@@ -4,6 +4,5 @@ valgrind
 geoclue
 gdata
 libwebp
-webkitgtk
-webkitgtk3
+@webkitgtk_full.sqf
 claws-mail
