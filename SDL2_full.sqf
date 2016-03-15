@@ -1,0 +1,13 @@
+SDL2
+SDL2_gfx
+libwebp
+SDL2_image
+libmodplug
+@TiMidity++_full.sqf
+@fluidsynth_full.sqf
+SDL2_mixer
+SDL2_net
+SDL2_ttf
+pypy
+pypy3
+PySDL2
