@@ -1,0 +1,3 @@
+libgnomecanvas
+@libgnomeprint.sqf
+libgnomeprintui
