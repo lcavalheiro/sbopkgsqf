@@ -1,0 +1,10 @@
+@ffmpeg_full_non_redistributable.sqf
+@jack-audio-connection-kit_full.sqf
+ladspa_sdk
+lame
+soundtouch
+vamp-plugin-sdk
+@lilv_full.sqf
+@suil_full.sqf
+@wxPython_full.sqf
+audacity
